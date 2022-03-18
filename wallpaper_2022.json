@@ -1,52 +1,4 @@
-{
-    "Categories": 
-        [
-            {
-                "name": "People"
-            },
-            {
-                "name": "Architecture"
-            },
-            {
-                "name": "City"
-            },
-            {
-                "name": "Mountain"
-            },
-            {
-                "name": "Forest"
-            },
-            {
-                "name": "Sunset"
-            },
-            {
-                "name": "Nature"
-            },
-            {
-                "name": "Satellite"
-            },
-            {
-                "name": "Animal"
-            },
-            {
-                "name": "Ocean"
-            },
-            {
-                "name": "Beach"
-            },
-            {
-                "name": "Road"
-            },
-            {
-                "name": "Black and White"
-            },
-            {
-                "name": "House"
-            }
-        ],
-    
-	"Wallpapers":
-        [
+[
 		{
 				"author": "Wallpaper 100",
 				"url": "https://drive.google.com/uc?id=14VyPpb2OV4ch29JlvtXF1Q3NGsNh4QjT",
@@ -748,4 +700,3 @@
                 "category": ""
 			}
 		]
-}
