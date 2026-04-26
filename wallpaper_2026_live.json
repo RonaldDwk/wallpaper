@@ -1869,10 +1869,15 @@
     "author": "",
     "url": "https://raw.githubusercontent.com/RonaldDwk/images_big/main/Wallpaper%20100.png",
     "thumbUrl": "https://raw.githubusercontent.com/RonaldDwk/images_small/main/Wallpaper%20100.png"
-},{
+   },{
   "name": "Weather 1",
   "url": "https://raw.githubusercontent.com/RonaldDwk/wcgp/main/weather1.mp4",
   "thumbnail": "https://raw.githubusercontent.com/RonaldDwk/wcgp/main/weather1-thumbnail.webp",
+  "categories": "Weather"
+},{
+  "name": "Weather 2",
+  "url": "https://raw.githubusercontent.com/RonaldDwk/wcgp/main/weather2.mp4",
+  "thumbnail": "https://raw.githubusercontent.com/RonaldDwk/wcgp/main/weather2-thumbnail.webp",
   "categories": "Weather"
   }
 ]
