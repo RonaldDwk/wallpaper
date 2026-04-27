@@ -1272,29 +1272,27 @@
 },
   {
     "name": "misc-1",
-    "author": "",
     "url": "https://raw.githubusercontent.com/RonaldDwk/images_big/main/Wallpaper%2001.png",
-    "thumbUrl": "https://raw.githubusercontent.com/RonaldDwk/images_small/main/Wallpaper%2001.png"
+    "thumbUrl": "https://raw.githubusercontent.com/RonaldDwk/images_small/main/Wallpaper%2001.png",
     "categories": "Misc"
   },
   {
     "name": "misc-2",
-    "author": "",
     "url": "https://raw.githubusercontent.com/RonaldDwk/images_big/main/Wallpaper%2002.png",
-    "thumbUrl": "https://raw.githubusercontent.com/RonaldDwk/images_small/main/Wallpaper%2002.png"
+    "thumbUrl": "https://raw.githubusercontent.com/RonaldDwk/images_small/main/Wallpaper%2002.png",
     "categories": "Misc"
   },
   {
-    "name": "",
-    "author": "",
+    "name": "misc-3",
     "url": "https://raw.githubusercontent.com/RonaldDwk/images_big/main/Wallpaper%2003.png",
-    "thumbUrl": "https://raw.githubusercontent.com/RonaldDwk/images_small/main/Wallpaper%2003.png"
+    "thumbUrl": "https://raw.githubusercontent.com/RonaldDwk/images_small/main/Wallpaper%2003.png",
+    "categories": "Misc"
   },
   {
-    "name": "",
-    "author": "",
+    "name": "misc-4",
     "url": "https://raw.githubusercontent.com/RonaldDwk/images_big/main/Wallpaper%2004.png",
-    "thumbUrl": "https://raw.githubusercontent.com/RonaldDwk/images_small/main/Wallpaper%2004.png"
+    "thumbUrl": "https://raw.githubusercontent.com/RonaldDwk/images_small/main/Wallpaper%2004.png",
+    "categories": "Misc"
   },
   {
     "name": "",
