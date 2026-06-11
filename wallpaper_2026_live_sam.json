@@ -1745,11 +1745,6 @@
     "thumbUrl": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/wallpaper100-thumbnail.webp",
     "categories": "Static Misc"
   },{
-  "name": "AI 8",
-  "url": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai8.mp4",
-  "thumbnail": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai8-thumbnail.webp",
-  "categories": "AI"
-  },{
   "name": "AI 10",
   "url": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai10.mp4",
   "thumbnail": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai10-thumbnail.webp",
@@ -1763,11 +1758,6 @@
   "name": "AI 15",
   "url": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai15.mp4",
   "thumbnail": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai15-thumbnail.webp",
-  "categories": "AI"
-  },{
-  "name": "AI 16",
-  "url": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai16.mp4",
-  "thumbnail": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai16-thumbnail.webp",
   "categories": "AI"
   },{
   "name": "AI 17",
@@ -1830,24 +1820,9 @@
   "thumbnail": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai33-thumbnail.webp",
   "categories": "AI"
   },{
-  "name": "AI 34",
-  "url": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai34.mp4",
-  "thumbnail": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai34-thumbnail.webp",
-  "categories": "AI"
-  },{
-  "name": "AI 35",
-  "url": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai35.mp4",
-  "thumbnail": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai35-thumbnail.webp",
-  "categories": "AI"
-  },{
   "name": "AI 36",
   "url": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai36.mp4",
   "thumbnail": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai36-thumbnail.webp",
-  "categories": "AI"
-  },{
-  "name": "AI 39",
-  "url": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai39.mp4",
-  "thumbnail": "https://github.com/illmaticApps/wallpaper/releases/download/v1.0/ai39-thumbnail.webp",
   "categories": "AI"
   },{
   "name": "AI 40",
