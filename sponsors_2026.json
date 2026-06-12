@@ -2,55 +2,34 @@
   {
     "name": "Men's Color-Blocked Road Running Shoes",
     "description": "",
-    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_test.webp",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_1.webp",
     "target_url": "https://temu.to/k/e0o9pmzus8v",
-    "categories": "Sneakers"
-  },{
+    "categories": "Sneakers",
+    "price": {
+      "value": 23.00,
+      "currency": "ZAR"
+    }
+  },
+  {
     "name": "Plus-size Fashionable Women's Casual Sneakers",
     "description": "",
-    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_test.webp",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_1.webp",
     "target_url": "https://temu.to/k/eq6tq13t16y",
-    "categories": "Sneakers"
-  },{
+    "categories": "Sneakers",
+    "price": {
+      "value": 50.00,
+      "currency": "ZAR"
+    }
+  },
+  {
     "name": "Men's Shoes New Season Trend Thick Sole Height",
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_2.webp",
     "target_url": "https://temu.to/k/eb7gb6gjnvl",
-    "categories": "Sneakers"
-  },{
-    "name": "Women's 7cm Height Increase Fashion Casual Sports Skate ",
-    "description": "",
-    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_2.webp",
-    "target_url": "https://temu.to/k/epvjm6yy05j",
-    "categories": "Sneakers"
-  },{
-    "name": "Men's Pair of Breathable Sports Casual Shoes",
-    "description": "",
-    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_3.webp",
-    "target_url": "https://temu.to/k/ezku7rqcd2v",
-    "categories": "Sneakers"
-  },{
-    "name": "Women's Warm High-Top Shoes",
-    "description": "",
-    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_3.webp",
-    "target_url": "https://temu.to/k/eckbmxga6z7",
-    "categories": "Sneakers"
-  },{
-    "name": "",
-    "description": "",
-    "image": "",
-    "target_url": "",
-    "categories": "Sneakers"
-  },{
-    "name": "",
-    "description": "",
-    "image": "",
-    "target_url": "",
-    "categories": "Sneakers"
-  },{
-    "name": "",
-    "image": "",
-    "target_url": "",
-    "categories": "Sneakers"
+    "categories": "Sneakers",
+    "price": {
+      "value": 100.00,
+      "currency": "ZAR"
+    }
   }
 ]
