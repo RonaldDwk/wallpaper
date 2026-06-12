@@ -4,7 +4,7 @@
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_1.webp",
     "target_url": "https://temu.to/k/e0o9pmzus8v",
-    "category": "Sneakers",
+    "categories": "Sneakers",
     "price": {
       "value": 23.00,
       "currency": "ZAR"
@@ -15,7 +15,7 @@
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_1.webp",
     "target_url": "https://temu.to/k/eq6tq13t16y",
-    "category": "Sneakers",
+    "categories": "Sneakers",
     "price": {
       "value": 23.00,
       "currency": "ZAR"
@@ -26,7 +26,7 @@
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_2.webp",
     "target_url": "https://temu.to/k/eb7gb6gjnvl",
-    "category": "Sneakers",
+    "categories": "Sneakers",
     "price": {
       "value": 42.00,
       "currency": "ZAR"
