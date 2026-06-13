@@ -4,6 +4,7 @@
     "description": "Join Temu's affiliate program—no payment needed! Just sign up via our link, and earn up to R100 instantly, plus free shopping rewards!",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/featured_product.webp",
     "target_url": "https://temu.to/k/edys5yo5uzc",
+    "app_deep_link": "temu://://temu.com",
     "categories": "Featured",
     "sold": "Click to unlock rewards",
     "price_label": "Prices may vary"
@@ -12,6 +13,7 @@
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_1.webp",
     "target_url": "https://temu.to/k/e0o9pmzus8v",
+     "app_deep_link": "temu://://temu.com",
     "categories": "Sneakers and Boots",
     "sold": "Available in 7 colours",
     "price_label": "Prices may vary"
@@ -20,6 +22,7 @@
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_1.webp",
     "target_url": "https://temu.to/k/eq6tq13t16y",
+    "app_deep_link": "temu://://temu.com",
     "categories": "Sneakers and Boots",
     "sold": "Available in 8 colours",
     "price_label": "Prices may vary"
@@ -28,6 +31,7 @@
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_2.webp",
     "target_url": "https://temu.to/k/eb7gb6gjnvl",
+    "app_deep_link": "temu://://temu.com",
     "categories": "Sneakers and Boots",
     "sold": "Available in 4 colours",
     "price_label": "Prices may vary"
@@ -36,6 +40,7 @@
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_2.webp",
     "target_url": "https://temu.to/k/epvjm6yy05j",
+    "app_deep_link": "temu://://temu.com",
     "categories": "Sneakers and Boots",
     "sold": "Available in 2 colours",
     "price_label": "Prices may vary"
@@ -44,6 +49,7 @@
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_3.webp",
     "target_url": "https://temu.to/k/ezku7rqcd2v",
+    "app_deep_link": "temu://://temu.com",
     "categories": "Sneakers and Boots",
     "sold": "Available in 3 colours",
     "price_label": "Prices may vary"
@@ -52,6 +58,7 @@
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_3.webp",
     "target_url": "https://temu.to/k/eckbmxga6z7",
+    "app_deep_link": "temu://://temu.com",
     "categories": "Sneakers and Boots",
     "sold": "Available in 2 colours",
     "price_label": "Prices may vary"
