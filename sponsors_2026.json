@@ -14,10 +14,7 @@
     "target_url": "https://temu.to/k/e0o9pmzus8v",
     "categories": "Sneakers and Boots",
     "sold": "Available in 7 colours",
-    "price": {
-      "value": 230.00,
-      "currency": "ZAR"
-    }
+    "price_label": "Prices may vary"
   },{
     "name": "Women's Plus-size Fashionable Casual Sneakers",
     "description": "",
@@ -25,10 +22,7 @@
     "target_url": "https://temu.to/k/eq6tq13t16y",
     "categories": "Sneakers and Boots",
     "sold": "Available in 8 colours",
-    "price": {
-      "value": 316.00,
-      "currency": "ZAR"
-    }
+    "price_label": "Prices may vary"
   },{
     "name": "Men's New Season Trend Thick Sole Height, Soft Sole Anti Slip",
     "description": "",
@@ -47,10 +41,7 @@
     "target_url": "https://temu.to/k/epvjm6yy05j",
     "categories": "Sneakers and Boots",
     "sold": "Available in 2 colours",
-    "price": {
-      "value": 721.00,
-      "currency": "ZAR"
-    }
+    "price_label": "Prices may vary"
   },{
     "name": "Men's Increased Height, Suitable for Outdoor Sports",
     "description": "",
@@ -58,10 +49,7 @@
     "target_url": "https://temu.to/k/ezku7rqcd2v",
     "categories": "Sneakers and Boots",
     "sold": "Available in 3 colours",
-    "price": {
-      "value": 232.00,
-      "currency": "ZAR"
-    }
+    "price_label": "Prices may vary"
   },{
     "name": "Women's Warm High-Top, Solid Color, Simple and Versatile",
     "description": "",
@@ -69,9 +57,7 @@
     "target_url": "https://temu.to/k/eckbmxga6z7",
     "categories": "Sneakers and Boots",
     "sold": "Available in 2 colours",
-    "price": {
-      "value": 556.00,
-      "currency": "ZAR"
+    "price_label": "Prices may vary"
     }
   }
 ]
