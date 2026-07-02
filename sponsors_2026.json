@@ -2,7 +2,7 @@
   {
     "name": "🚀 Earn Free Rewards on Temu!",
     "description": "Join Temu's affiliate program—no payment needed! Just sign up via our link, and earn up to R100 instantly, plus free shopping rewards!",
-    "image": "slider_temu_1",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/temu_featured_product.webp",
     "target_url": "https://temu.to/k/edys5yo5uzc",
     "app_deep_link": "temu://://temu.com",
     "categories": "Featured",
