@@ -281,6 +281,118 @@
     "sold": "Available in 2 colors",
     "price_label": "Prices may vary"
   },{
+    "name": "Men's Breathable Mesh Casual Sneakers",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_4.webp",
+    "target_url": "https://temu.to/k/egg105xcsly",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 3 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Women's Popcorn Air Cushion Soft Sole",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_4.webp",
+    "target_url": "https://temu.to/k/eprxuijornw",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 2 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Men's Low Top Gradient Color Sneakers",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_5.webp",
+    "target_url": "https://temu.to/k/ev6crf6a5cj",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 2 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Women's Fashion Casual Sneakers",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_5.webp",
+    "target_url": "https://temu.to/k/e7l7h8s4hvn",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 7 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Men's High Aesthetic Fashion Trendy",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_6.webp",
+    "target_url": "https://temu.to/k/eek4lkfkm0u",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 3 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Women's Sneakers Lightweight Breathable",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_6.webp",
+    "target_url": "https://temu.to/k/e1zh65mrk21",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 3 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Men's Breathable Minimalist Sneakers",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_7.webp",
+    "target_url": "https://temu.to/k/enn8p36uqq9",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 3 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Women's Lightweight Spring Tennis Footwear",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_7.webp",
+    "target_url": "https://temu.to/k/e7uvrehx6to",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 2 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Men's Trendy Color Block Design",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_8.webp",
+    "target_url": "https://temu.to/k/e7t2vc7jqbi",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 3 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Women's Radiant Light Base Anti-Slip",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_8.webp",
+    "target_url": "https://temu.to/k/ej6nxo9odzb",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 2 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Men's Athletic Casual Sporty Style",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_9.webp",
+    "target_url": "https://temu.to/k/e32bxw63v1j",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 3 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Women's Versatile Vintage Breathable",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_9.webp",
+    "target_url": "https://temu.to/k/eu7ihhg2isi",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 2 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Men's Carbon Plate for Speed and Stability",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_men_10.webp",
+    "target_url": "https://temu.to/k/em92s8xoa4r",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 3 colors",
+    "price_label": "Prices may vary"
+  },{
+    "name": "Women's Versatile Four Season Sneakers",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/sneakers_woman_10.webp",
+    "target_url": "https://temu.to/k/eje3cevebe5",
+    "categories": "Sneakers and Boots",
+    "sold": "Available in 4 colors",
+    "price_label": "Prices may vary"
+  },{
     "name": "Men's Trendy Patchwork Long Sleeve T-Shirt",
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_men_1.webp",
