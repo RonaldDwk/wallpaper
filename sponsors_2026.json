@@ -401,6 +401,14 @@
     "sold": "Available in 1 color",
     "price_label": "Prices may vary"
   },{
+    "name": "Women's Solid Color Shirt, Back Long Sleeve",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_women_1.webp",
+    "target_url": "https://temu.to/k/eujgw6f3nnp",
+    "categories": "Shirts",
+    "sold": "Available in 4 colors",
+    "price_label": "Prices may vary"
+  },{
     "name": "Men's Long Sleeve T-Shirt with Print",
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_men_2.webp",
@@ -408,6 +416,14 @@
     "categories": "Shirts",
     "sold": "Available in 6 colors",
     "price_label": "Prices may vary"
+  },{
+    "name": "Women's Solid Color Long Sleeved",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_women_2.webp",
+    "target_url": "https://temu.to/k/e4dtl9puz7g",
+    "categories": "Shirts",
+    "sold": "Available in 8 colors",
+    "price_label": "Prices may vary"    
   },{
     "name": "Men's Long-Sleeve Print T-Shirt, Regular Fit",
     "description": "",
@@ -417,13 +433,29 @@
     "sold": "Available in 6 colors",
     "price_label": "Prices may vary" 
   },{
+    "name": "Women's Spring and Autumn Fashion Striped",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_women_3.webp",
+    "target_url": "https://temu.to/k/e403531monw",
+    "categories": "Shirts",
+    "sold": "Available in 4 colors",
+    "price_label": "Prices may vary"      
+  },{
     "name": "Men's Printed Regular Spring/Autumn Long Sleeve",
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_men_4.webp",
     "target_url": "https://temu.to/k/er85iitwgf1",
     "categories": "Shirts",
     "sold": "Available in 6 colors",
-    "price_label": "Prices may vary"      
+    "price_label": "Prices may vary"  
+  },{
+    "name": "Women's Casual Fashion Long-Sleeved Top",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_women_4.webp",
+    "target_url": "https://temu.to/k/e2e42uhfph3",
+    "categories": "Shirts",
+    "sold": "Available in 7 colors",
+    "price_label": "Prices may vary"     
    },{
     "name": "Men's Fashion White Shirt: Minimalist Lines",
     "description": "",
@@ -433,6 +465,14 @@
     "sold": "Available in 1 color",
     "price_label": "Prices may vary"  
   },{
+    "name": "Women's Loose-Fit Solid Color Round Neck",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_women_5.webp",
+    "target_url": "https://temu.to/k/ea9v17cjemd",
+    "categories": "Shirts",
+    "sold": "Available in 8 colors",
+    "price_label": "Prices may vary"     
+  },{
     "name": "Men's Formal Shirt Spliced Design Sense",
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_men_6.webp",
@@ -441,10 +481,26 @@
     "sold": "Available in 19 colors",
     "price_label": "Prices may vary"   
   },{
+    "name": "Women's Short-Sleeved Polo Shirt",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_women_6.webp",
+    "target_url": "https://temu.to/k/e675t2zzqnj",
+    "categories": "Shirts",
+    "sold": "Available in 2 colors",
+    "price_label": "Prices may vary"     
+  },{
     "name": "Men's Stand Collar Long Sleeve Shirt",
     "description": "",
     "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_men_7.webp",
     "target_url": "https://temu.to/k/e2nbrre9m46",
+    "categories": "Shirts",
+    "sold": "Available in 5 colors",
+    "price_label": "Prices may vary"   
+  },{
+    "name": "Women's Elegant Flared Sleeve Chiffon",
+    "description": "",
+    "image": "https://github.com/illmaticApps/temu/releases/download/v1.0/shirt_women_7.webp",
+    "target_url": "https://temu.to/k/etqmzdiztsn",
     "categories": "Shirts",
     "sold": "Available in 5 colors",
     "price_label": "Prices may vary"     
